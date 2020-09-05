@@ -1,0 +1,12 @@
+{
+  "name": "mytube",
+  "version": "1.0.0",
+  "description": "Cloneing Youtube with VanillaJs and NodeJs",
+  "main": "index.js",
+  "scripts": {},
+  "author": "JaehoJung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
